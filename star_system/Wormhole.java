@@ -1,4 +1,4 @@
-package javafxml.skillinterfacetest.cs2340.star_system;
+package Source.star_system;
 
 /**
  * Wormhole, currently does not work, from one StarSystem to another

@@ -1,5 +1,5 @@
-package javafxml.skillinterfacetest.cs2340;
-import javafxml.skillinterfacetest.cs2340.player.*;
+package Source;
+import Source.player.*;
 
 import java.net.URL;
 import java.util.ResourceBundle;

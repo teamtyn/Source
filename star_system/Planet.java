@@ -1,4 +1,4 @@
-package javafxml.skillinterfacetest.cs2340.star_system;
+package Source.star_system;
 
 import java.util.Random;
 import javafx.scene.paint.Color;

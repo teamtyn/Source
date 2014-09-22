@@ -39,7 +39,7 @@
  * 
  */ 
 
-package javafxml.skillinterfacetest.cs2340;
+package Source;
 
 import java.util.HashMap;
 import javafx.animation.KeyFrame;

@@ -1,4 +1,4 @@
-package javafxml.skillinterfacetest.cs2340;
+package Source;
 
 import javafx.application.Application;
 import javafx.scene.Group;

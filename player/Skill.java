@@ -1,4 +1,4 @@
-package javafxml.skillinterfacetest.cs2340.player;
+package Source.player;
 
 public class Skill {
     private String type;

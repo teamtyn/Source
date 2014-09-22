@@ -1,4 +1,4 @@
-package javafxml.skillinterfacetest.cs2340.star_system;
+package Source.star_system;
 
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -16,7 +16,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-import javafxml.skillinterfacetest.cs2340.*;
+import Source.*;
 
 /**
  * 
